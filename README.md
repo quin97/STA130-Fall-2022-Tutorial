@@ -1,4 +1,4 @@
-# STA130 (Fall 2022): An Introduction to Statistical Reasoning and Data Science - Tutorial
+# STA130 Fall 2022 Tutorial
 
 ## Outline
 
