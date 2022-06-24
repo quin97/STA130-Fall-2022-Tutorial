@@ -2,26 +2,24 @@
 
 ## Outline
 
-### Week 1: Jupyterhub and Rstudio and R Basics
+### Module 1: [Jupyterhub and Rstudio and R Basics](https://github.com/quin97/STA130_M1_Tutorial)
 
-### Module 2: Distributions and Statistics
+### Module 2: [Distributions and Statistics](https://github.com/quin97/STA130_M2_Tutorial)
 
-### Module 3: Data Wrangling with Tidy
+### Module 3: [Data Wrangling with Tidy](https://github.com/quin97/STA130_M3_Tutorial)
 
-### Module 4: Statistical Inference for a Single Sample Proportion
+### Module 4: [Hypothesis Tests for One Group and Two Groups](https://github.com/quin97/STA130_M4.5_Tutorial)
 
-### Module 5: Permutation Tests for Two Groups
+### Project introduction
 
-### Midterm Review
+### Module 5: [Sampling Distributions and Bootstrap Confidence Intervals](https://github.com/quin97/STA130_M6_Tutorial)
 
-### Module 6: Sampling Distributions and Bootstrap Confidence Intervals
+### Module 6: [Linear Regression I](https://github.com/quin97/STA130_M7_Tutorial)
 
-### Module 7: Linear Regression I
+### Module 7: [Linear Regression II](https://github.com/quin97/STA130_M8_Tutorial)
 
-### Module 8: Linear Regression II
+### Module 8: [Classification Trees](https://github.com/quin97/STA130_M9_Tutorial)
 
-### Module 9: Classification Trees
-
-### Module 10: Study Design, Confounding, and Ethics
+### Module 9: [Study Design, Confounding, and Ethics](https://github.com/quin97/STA130_M10_Tutorial)
 
 ### Final Review
