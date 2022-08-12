@@ -14,12 +14,16 @@
 
 ### Week 6: [Sampling Distributions and Bootstrap Confidence Intervals](https://github.com/quin97/STA130_M6_Tutorial)
 
-### Week 7: [Linear Regression I](https://github.com/quin97/STA130_M7_Tutorial)
+### Week 7: Midterm
 
-### Week 8: [Linear Regression II](https://github.com/quin97/STA130_M8_Tutorial)
+### Week 8: [Linear Regression I](https://github.com/quin97/STA130_M7_Tutorial)
 
-### Week 9: [Classification Trees](https://github.com/quin97/STA130_M9_Tutorial)
+### Week 9: Reading week
 
-### Week 10: [Study Design, Confounding, and Ethics](https://github.com/quin97/STA130_M10_Tutorial)
+### Week 10: [Linear Regression II](https://github.com/quin97/STA130_M8_Tutorial)
 
-### Final Review
+### Week 11: [Classification Trees](https://github.com/quin97/STA130_M9_Tutorial)
+
+### Week 12: [Study Design, Confounding, and Ethics](https://github.com/quin97/STA130_M10_Tutorial)
+
+### Week 13: Final Review
